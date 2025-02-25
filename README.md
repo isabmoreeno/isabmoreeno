@@ -1,5 +1,7 @@
 ## Hi! I'm Isabela Moreno 👋
 
+<br>
+
 🎓 Student of Analysis and Systems Development, passionate about technology, programming, and innovation. I'm always exploring new technologies and continuously improving my skills. In addition to programming, I am an enthusiast of games, cinema, and coffee, always seeking new perspectives and inspirations.
 
 <br>
@@ -21,8 +23,8 @@
           
 <div style="display: flex; flex-direction: row;">
   <a href="https://github.com/isabmoreeno">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=isabmoreeno&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=000000&title_color=ffffff&text_color=bb86fc&icon_color=9a33ff&border_color=5a189a"/>
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabmoreeno&layout=compact&langs_count=7&theme=dark&bg_color=000000&title_color=ffffff&text_color=bb86fc&icon_color=9a33ff&border_color=5a189a"/>
+    <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=isabmoreeno&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=000000&title_color=ffffff&text_color=bb86fc&icon_color=9a33ff&border_color=5a189a"/>
+    <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabmoreeno&layout=compact&langs_count=7&theme=dark&bg_color=000000&title_color=ffffff&text_color=bb86fc&icon_color=9a33ff&border_color=5a189a"/>
   </a>
 </div>
 
