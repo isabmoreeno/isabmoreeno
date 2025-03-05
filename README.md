@@ -2,6 +2,7 @@
 
 🎓 Systems Analysis and Development student at Fatec Dom Amaury Castanho, always exploring new technologies and honing my skills. Passionate about programming, innovation, and everything tech-related. When I'm not coding, you'll find me diving into games, analyzing movies, or fueling up on (lots of) coffee. 
 
+<br>
 
 <p align="left">
 <div align="left">
