@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poetsen+One&weight=150&size=24&pause=1000&color=BD93F9&width=435&lines=I'm+Isabela,+wanna+some+coffee?)](https://git.io/typing-svg#gh-light-mode-only)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poetsen+One&weight=150&size=24&pause=1000&color=6984fa&width=435&lines=I'm+Isabela,+wanna+some+coffee?)](https://git.io/typing-svg#gh-light-mode-only)
 
 🎓 Systems Analysis and Development student at Fatec Dom Amaury Castanho, always exploring new technologies and honing my skills. Passionate about programming, innovation, and everything tech-related. When I'm not coding, you'll find me diving into games, analyzing movies, or fueling up on (lots of) coffee. 
 
