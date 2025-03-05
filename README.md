@@ -2,8 +2,9 @@
 
 🎓 Systems Analysis and Development student at Fatec Dom Amaury Castanho, always exploring new technologies and honing my skills. Passionate about programming, innovation, and everything tech-related. When I'm not coding, you'll find me diving into games, analyzing movies, or fueling up on (lots of) coffee. 
 
-<br>
 
+
+#### 💌 Where you can find me: 
 <p align="left">
 <div align="left">
   <a href="https://instagram.com/ibrunaneves" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -12,9 +13,7 @@
 </div>
 </p>
 
-<br>
-
-### 🤖 Tech Stacks:
+#### 🤖 Tech Stacks:
 
 <img 
     align="left" 
