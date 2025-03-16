@@ -1,10 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poetsen+One&weight=150&size=24&pause=1000&color=ffffff&width=435&lines=I'm+Isabela,+wanna+some+coffee?)](https://git.io/typing-svg#gh-light-mode-only)
 
-🎓 Systems Analysis and Development student at Fatec Dom Amaury Castanho, always exploring new technologies and honing my skills. Passionate about programming, innovation, and everything tech-related. When I'm not coding, you'll find me diving into games, analyzing movies, or fueling up on (lots of) coffee. 
+- 🎓 Systems Analysis and Development student at Fatec Dom Amaury Castanho.
+- 💡 Passionate about technology, always exploring new trends and fullstack development.
+- 🎬 Horror movies & 🎮 gaming fuel my creativity when I’m not coding.
 
+<br>
 
-
-#### 💌 Where you can find me: 
 <p align="left">
 <div align="left">
   <a href="https://instagram.com/isabmoreeno" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -13,8 +14,18 @@
 </div>
 </p>
 
-#### 🤖 Tech Stacks:
+<br>
 
+<div style="display: flex; flex-direction: row; background-color: #0a0f25; padding: 10px; border-radius: 8px;">
+  <a href="https://github.com/isabmoreeno">
+    <img loading="lazy" height="170em" src="https://github-readme-stats.vercel.app/api?username=isabmoreeno&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=0a0f25&title_color=6984fa&text_color=ffffff&icon_color=6984fa&border_color=6984fa"/>
+    <img loading="lazy" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabmoreeno&layout=compact&langs_count=7&theme=dark&bg_color=0a0f25&title_color=6984fa&text_color=ffffff&icon_color=2a42ad&border_color=6984fa"/>
+  </a>
+</div>
+
+<br>
+
+<div align="center">
 <img 
     align="left" 
     alt="HTML"
@@ -71,7 +82,8 @@
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" 
-/> <img 
+/> 
+<img 
     align="left" 
     alt="PHP" 
     title="PHP"
@@ -79,18 +91,7 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
-
-<br><br>
-
-
-
-<div style="display: flex; flex-direction: row; background-color: #0a0f25; padding: 10px; border-radius: 8px;">
-  <a href="https://github.com/isabmoreeno">
-    <img loading="lazy" height="170em" src="https://github-readme-stats.vercel.app/api?username=isabmoreeno&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=0a0f25&title_color=6984fa&text_color=ffffff&icon_color=6984fa&border_color=6984fa"/>
-    <img loading="lazy" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabmoreeno&layout=compact&langs_count=7&theme=dark&bg_color=0a0f25&title_color=6984fa&text_color=ffffff&icon_color=2a42ad&border_color=6984fa"/>
-  </a>
 </div>
-
 
 
 
