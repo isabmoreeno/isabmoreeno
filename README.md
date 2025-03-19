@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3b82f6&size=35&center=true&vCenter=true&width=1000&lines=Hi!+I'm+Isabela+Moreno;Do+you+wanna+some+coffee?)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3b82f6&size=35&center=true&vCenter=true&width=1000&lines=Hi!+My+name's+Isabela;I'm+17+years+old;Do+you+wanna+some+coffee?)](https://git.io/typing-svg)
 
 <br>
 
@@ -28,69 +28,15 @@
 <br>
 
 <div align="center">
-  <img 
-      alt="HTML"
-      title="HTML" 
-      width="40px" 
-      style="margin: 10px;" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-  />
-  <img 
-      alt="CSS" 
-      title="CSS"
-      width="40px" 
-      style="margin: 10px;" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-  />
-  <img 
-      alt="JavaScript" 
-      title="JavaScript"
-      width="40px" 
-      style="margin: 10px;" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-  />
-  <img 
-      alt="Java" 
-      title="Java"
-      width="40px" 
-      style="margin: 10px;" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-  />
-  <img 
-      alt="React"
-      title="React" 
-      width="40px" 
-      style="margin: 10px;" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-  />
-  <img 
-      alt="Python" 
-      title="Python"
-      width="40px" 
-      style="margin: 10px;" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-  />
-  <img
-      alt="Angular" 
-      title="Angular"
-      width="40px" 
-      style="margin: 10px;" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" 
-  /> 
-  <img 
-      alt="PHP" 
-      title="PHP"
-      width="40px" 
-      style="margin: 10px;" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML" width="40px" style="margin: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS" width="40px" style="margin: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" width="40px" style="margin: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java" width="40px" style="margin: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React" width="40px" style="margin: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" width="40px" style="margin: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" title="Angular" width="40px" style="margin: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" title="PHP" width="40px" style="margin: 10px;">
 </div>
-
-
-
-
-
-
 
 
   
