@@ -1,10 +1,13 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3b82f6&size=35&center=true&vCenter=true&width=1000&lines=Hi!+I'm+Isabela+:D;I'm+17+years+old;Welcome+to+my+world+of+code!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3b82f6&size=35&center=true&vCenter=true&width=1000&lines=Hi!+I'm+Isabela+:D;Data+Science+Enthusiast;Python+%7C+SQL+%7C+Data+Analysis)](https://git.io/typing-svg)
 
 <br>
 
 - 🎓 Systems Analysis and Development student at Fatec Dom Amaury Castanho.
-- 💡 Passionate about technology, always exploring new trends and fullstack development.
-- 🎬 Horror movies & 🎮 gaming fuel my creativity when I’m not coding.
+- 📊 Currently focused on **Data Science and Data Analysis**.
+- 🐍 Working mainly with **Python for data exploration, analysis and visualization**.
+- 💻 I also have experience in **Full Stack Development**.
+- 🔍 Interested in transforming **raw data into insights and meaningful information**.
+- 🎬 Horror movies & 🎮 gaming fuel my creativity when I’m not exploring data.
 
 <br>
 
@@ -27,13 +30,17 @@
 <br>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML" width="40px" style="margin: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS" width="40px" style="margin: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" width="40px" style="margin: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java" width="40px" style="margin: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React" width="40px" style="margin: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" width="40px" style="margin: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" title="Angular" width="40px" style="margin: 10px;">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" width="40px" style="margin: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" title="Pandas" width="40px" style="margin: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" title="NumPy" width="40px" style="margin: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" title="Jupyter Notebook" width="40px" style="margin: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title="MySQL" width="40px" style="margin: 10px;">
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" title="Excel" width="40px" style="margin: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" width="40px" style="margin: 10px;">
+</div>
 </div>
 
 
