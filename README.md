@@ -6,7 +6,6 @@
 - 📊 Currently focused on **Data Science and Data Analysis**.
 - 🐍 Working mainly with **Python for data exploration, analysis and visualization**.
 - 💻 I also have experience in **Full Stack Development**.
-- 🔍 Interested in transforming **raw data into insights and meaningful information**.
 - 🎬 Horror movies & 🎮 gaming fuel my creativity when I’m not exploring data.
 
 <br>
@@ -16,7 +15,6 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isabmoreeno&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=isabmoreeno&theme=tokyonight"/>
 </div>
 
 <br>
